@@ -1,6 +1,6 @@
 name = "nckcllr-com"
 compatibility_date = "2025-12-28"
-main = "$assets/index.html"  # Serves index.html directly, no JS needed
 
 [assets]
 directory = "."
+
